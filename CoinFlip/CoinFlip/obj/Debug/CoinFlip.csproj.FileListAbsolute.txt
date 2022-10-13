@@ -1,0 +1,11 @@
+C:\Users\lucas\OneDrive\Documents\CSharp\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe.config
+C:\Users\lucas\OneDrive\Documents\CSharp\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\CoinFlip\CoinFlip\bin\Debug\CoinFlip.pdb
+C:\Users\lucas\OneDrive\Documents\CSharp\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\CoinFlip\CoinFlip\obj\Debug\CoinFlip.Form1.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\CoinFlip\CoinFlip\obj\Debug\CoinFlip.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\CoinFlip\CoinFlip\obj\Debug\CoinFlip.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\CoinFlip\CoinFlip\obj\Debug\CoinFlip.pdb

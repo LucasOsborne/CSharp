@@ -1,0 +1,11 @@
+C:\Users\lucas\OneDrive\Documents\CSharp\ExtensionTask\ExtensionTask\bin\Debug\ExtensionTask.exe.config
+C:\Users\lucas\OneDrive\Documents\CSharp\ExtensionTask\ExtensionTask\bin\Debug\ExtensionTask.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\ExtensionTask\ExtensionTask\bin\Debug\ExtensionTask.pdb
+C:\Users\lucas\OneDrive\Documents\CSharp\ExtensionTask\ExtensionTask\obj\Debug\ExtensionTask.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\ExtensionTask\ExtensionTask\obj\Debug\ExtensionTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\ExtensionTask\ExtensionTask\obj\Debug\ExtensionTask.Form1.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\ExtensionTask\ExtensionTask\obj\Debug\ExtensionTask.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\ExtensionTask\ExtensionTask\obj\Debug\ExtensionTask.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\ExtensionTask\ExtensionTask\obj\Debug\ExtensionTask.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\ExtensionTask\ExtensionTask\obj\Debug\ExtensionTask.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\ExtensionTask\ExtensionTask\obj\Debug\ExtensionTask.pdb

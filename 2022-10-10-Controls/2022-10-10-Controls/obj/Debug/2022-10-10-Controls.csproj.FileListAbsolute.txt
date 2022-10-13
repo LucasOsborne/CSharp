@@ -1,0 +1,11 @@
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-10-Controls\2022-10-10-Controls\bin\Debug\2022-10-10-Controls.exe.config
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-10-Controls\2022-10-10-Controls\bin\Debug\2022-10-10-Controls.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-10-Controls\2022-10-10-Controls\bin\Debug\2022-10-10-Controls.pdb
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-10-Controls\2022-10-10-Controls\obj\Debug\2022-10-10-Controls.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-10-Controls\2022-10-10-Controls\obj\Debug\2022-10-10-Controls.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-10-Controls\2022-10-10-Controls\obj\Debug\_2022_10_10_Controls.Form1.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-10-Controls\2022-10-10-Controls\obj\Debug\_2022_10_10_Controls.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-10-Controls\2022-10-10-Controls\obj\Debug\2022-10-10-Controls.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-10-Controls\2022-10-10-Controls\obj\Debug\2022-10-10-Controls.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-10-Controls\2022-10-10-Controls\obj\Debug\2022-10-10-Controls.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-10-Controls\2022-10-10-Controls\obj\Debug\2022-10-10-Controls.pdb

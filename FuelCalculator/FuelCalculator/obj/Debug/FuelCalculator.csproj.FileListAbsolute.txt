@@ -1,0 +1,11 @@
+C:\Users\lucas\OneDrive\Documents\CSharp\FuelCalculator\FuelCalculator\bin\Debug\FuelCalculator.exe.config
+C:\Users\lucas\OneDrive\Documents\CSharp\FuelCalculator\FuelCalculator\bin\Debug\FuelCalculator.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\FuelCalculator\FuelCalculator\bin\Debug\FuelCalculator.pdb
+C:\Users\lucas\OneDrive\Documents\CSharp\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.Form1.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.pdb

@@ -1,0 +1,11 @@
+C:\Users\lucas\OneDrive\Documents\CSharp\AccountBalance\AccountBalance\obj\Debug\AccountBalance.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\AccountBalance\AccountBalance\obj\Debug\AccountBalance.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\AccountBalance\AccountBalance\obj\Debug\AccountBalance.Form1.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\AccountBalance\AccountBalance\obj\Debug\AccountBalance.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\AccountBalance\AccountBalance\obj\Debug\AccountBalance.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\AccountBalance\AccountBalance\obj\Debug\AccountBalance.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\AccountBalance\AccountBalance\bin\Debug\AccountBalance.exe.config
+C:\Users\lucas\OneDrive\Documents\CSharp\AccountBalance\AccountBalance\bin\Debug\AccountBalance.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\AccountBalance\AccountBalance\bin\Debug\AccountBalance.pdb
+C:\Users\lucas\OneDrive\Documents\CSharp\AccountBalance\AccountBalance\obj\Debug\AccountBalance.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\AccountBalance\AccountBalance\obj\Debug\AccountBalance.pdb
