@@ -1,0 +1,11 @@
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-11-Pizza\2022-10-11-Pizza\bin\Debug\2022-10-11-Pizza.exe.config
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-11-Pizza\2022-10-11-Pizza\bin\Debug\2022-10-11-Pizza.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-11-Pizza\2022-10-11-Pizza\bin\Debug\2022-10-11-Pizza.pdb
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-11-Pizza\2022-10-11-Pizza\obj\Debug\2022-10-11-Pizza.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-11-Pizza\2022-10-11-Pizza\obj\Debug\2022-10-11-Pizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-11-Pizza\2022-10-11-Pizza\obj\Debug\_2022_10_11_Pizza.Form1.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-11-Pizza\2022-10-11-Pizza\obj\Debug\_2022_10_11_Pizza.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-11-Pizza\2022-10-11-Pizza\obj\Debug\2022-10-11-Pizza.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-11-Pizza\2022-10-11-Pizza\obj\Debug\2022-10-11-Pizza.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-11-Pizza\2022-10-11-Pizza\obj\Debug\2022-10-11-Pizza.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-11-Pizza\2022-10-11-Pizza\obj\Debug\2022-10-11-Pizza.pdb

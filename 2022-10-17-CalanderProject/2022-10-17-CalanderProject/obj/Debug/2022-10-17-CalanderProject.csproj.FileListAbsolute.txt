@@ -1,0 +1,11 @@
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-17-CalanderProject\2022-10-17-CalanderProject\bin\Debug\2022-10-17-CalanderProject.exe.config
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-17-CalanderProject\2022-10-17-CalanderProject\bin\Debug\2022-10-17-CalanderProject.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-17-CalanderProject\2022-10-17-CalanderProject\bin\Debug\2022-10-17-CalanderProject.pdb
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-17-CalanderProject\2022-10-17-CalanderProject\obj\Debug\2022-10-17-CalanderProject.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-17-CalanderProject\2022-10-17-CalanderProject\obj\Debug\2022-10-17-CalanderProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-17-CalanderProject\2022-10-17-CalanderProject\obj\Debug\_2022_10_17_CalanderProject.Form1.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-17-CalanderProject\2022-10-17-CalanderProject\obj\Debug\_2022_10_17_CalanderProject.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-17-CalanderProject\2022-10-17-CalanderProject\obj\Debug\2022-10-17-CalanderProject.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-17-CalanderProject\2022-10-17-CalanderProject\obj\Debug\2022-10-17-CalanderProject.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-17-CalanderProject\2022-10-17-CalanderProject\obj\Debug\2022-10-17-CalanderProject.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-10-17-CalanderProject\2022-10-17-CalanderProject\obj\Debug\2022-10-17-CalanderProject.pdb
