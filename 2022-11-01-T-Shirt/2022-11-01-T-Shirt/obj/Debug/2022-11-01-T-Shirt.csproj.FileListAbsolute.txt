@@ -1,0 +1,11 @@
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-11-01-T-Shirt\2022-11-01-T-Shirt\bin\Debug\2022-11-01-T-Shirt.exe.config
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-11-01-T-Shirt\2022-11-01-T-Shirt\bin\Debug\2022-11-01-T-Shirt.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-11-01-T-Shirt\2022-11-01-T-Shirt\bin\Debug\2022-11-01-T-Shirt.pdb
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-11-01-T-Shirt\2022-11-01-T-Shirt\obj\Debug\2022-11-01-T-Shirt.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-11-01-T-Shirt\2022-11-01-T-Shirt\obj\Debug\2022-11-01-T-Shirt.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-11-01-T-Shirt\2022-11-01-T-Shirt\obj\Debug\_2022_11_01_T_Shirt.Form1.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-11-01-T-Shirt\2022-11-01-T-Shirt\obj\Debug\_2022_11_01_T_Shirt.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-11-01-T-Shirt\2022-11-01-T-Shirt\obj\Debug\2022-11-01-T-Shirt.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-11-01-T-Shirt\2022-11-01-T-Shirt\obj\Debug\2022-11-01-T-Shirt.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-11-01-T-Shirt\2022-11-01-T-Shirt\obj\Debug\2022-11-01-T-Shirt.exe
+C:\Users\lucas\OneDrive\Documents\CSharp\2022-11-01-T-Shirt\2022-11-01-T-Shirt\obj\Debug\2022-11-01-T-Shirt.pdb
