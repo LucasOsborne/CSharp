@@ -96,7 +96,7 @@ namespace _2022_11_01_T_Shirt
                     bmp.SetPixel(x, y, Color.Teal);
                 }
             }
-            Tshi.Image = bmp;
+            TshirtPB.Image = bmp;
 
         }
     }
